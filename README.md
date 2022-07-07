@@ -7,10 +7,10 @@ PCB is the same size as original ZX Spectrum, can be fit in 48K or 48K+ case.
 - ZX Dandanator Mini on board
 - Simple 8bit IDE connector for using with +3E ROM
 - Flash ROM 29F040/39SF040 (upto 8 banks of 64K, select by dip switch)
-- Video signal is ZX Spectrum 48K/128K timing (select by switch)
-- AY-3-8910 sound chip
+- Video signal is ZX Spectrum 128K timing
+- AY-3-8912 sound chip
 - Kempston Joystick port
-- RS232 on board (option)
-- Composite output, support both PAL and NTSC (There is a footprint to install 3.579MHz oscilator for NTSC)
+- Header for WiFi Module
+- Composite and RGB PAL output
 - Use standard ZX Spectrum Adapter, 9V with center pin negative (-) 
 ![Board](https://github.com/DonSuperfo/ZX-Nuvo-2A/blob/main/ZX%20Nuvo%20%2B2A%20Issue%204.jpg)
