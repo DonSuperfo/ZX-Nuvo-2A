@@ -4,7 +4,7 @@ PCB is the same size as original ZX Spectrum, can be fit in 48K or 48K+ case.
 
 - PCB current version is 4A, support 48K, 128K, 128K +2A/+3/+3E ROM
 - Support ALL RAM mode, you can run CP/M with this board when using with floppy disk interface
-- ZX Dandanator Mini on board
+- ZX Dandanator Mini on board (http://www.dandare.es/Proyectos_Dandare/ZX_Dandanator%21_Mini_EN.html)
 - Simple 8bit IDE connector for using with +3E ROM
 - Flash ROM 29F040/39SF040 (upto 8 banks of 64K, select by dip switch)
 - Video signal is ZX Spectrum 128K timing
