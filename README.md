@@ -14,3 +14,6 @@ PCB is the same size as original ZX Spectrum, can be fit in 48K or 48K+ case.
 - Composite and RGB PAL output
 - Use standard ZX Spectrum Adapter, 9V with center pin negative (-) 
 ![Board](https://github.com/DonSuperfo/ZX-Nuvo-2A/blob/main/ZX%20Nuvo%20%2B2A%20Issue%204.jpg)
+If you want to get PCB, you can get it from PCBWay through this link:
+
+  <a href="https://www.pcbway.com/project/shareproject/ZX_Nuvo_2A_0923e610.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
